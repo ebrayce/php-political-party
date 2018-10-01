@@ -1,0 +1,17 @@
+.block{
+    display: block
+}
+
+a{
+    text-decoration: none;
+}
+
+.bg{
+    background-image: url("../images/bg2.jpg");
+}
+label{
+    color: white;
+}
+a{
+    color: white;
+}
